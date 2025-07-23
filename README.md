@@ -1,6 +1,10 @@
 <!-- Título -->
 # Linguagem de Programação
 
+## :bookmark: Tags
+
+`#Programação` `#LinguagensDeProgramação` `#DesenvolvimentoDeSoftware` `#Tech` `#AprenderProgramação` `#Markdown` `#Documentação` `#GitHub` `#README` `#EscritaTécnica` `#Aprendizado` `#Tecnologia` `#Desenvolvedores`
+
 <!-- Informações -->
 ## &#8505; Informações
 
