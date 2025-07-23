@@ -1,25 +1,5 @@
 <!-- Título -->
-#
-
-> [!IMPORTANT]\
-> **Boas práticas**:
->
-
----
-
-> [!WARNING]\
-> **Recomendações**:
->
-
----
-
-> [!NOTE]\
-> **Observações**:
->
-
----
-
-## Próximos Passos
+# Linguagem de Programação
 
 <!-- Informações -->
 ## &#8505; Informações
